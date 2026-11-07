@@ -1,0 +1,181 @@
+{
+  "source": "https://disk.360.yandex.ru/d/0dTQnV95qyC1Pg",
+  "description": "Фотографии действующего Киомей из папки, предоставленной владельцем сайта. Реальные интерьер и фасад; не визуализации будущих точек.",
+  "processing": "Уменьшение до 2400, 1600 и 960 px по ширине; EXIF orientation; перевод встроенного цветового профиля в sRGB; WebP quality 84. Без генеративных изменений, ретуши, повышения яркости и изменения композиции. EXIF в web-версии не включён.",
+  "photos": [
+    {
+      "id": "kyomei-interior-hall",
+      "sourceFile": "/All/060A5177.jpg",
+      "sha256": "52e47476580220378362095a514a6d303f55022c6c6b856030aed6f238e6d771",
+      "alt": "Главный зал Киомей с деревянными столами, бетонным потолком и деревянной решёткой",
+      "usage": "Резервное фото действующего бистро",
+      "originalWidth": 8192,
+      "originalHeight": 5464,
+      "variants": [
+        {
+          "src": "/assets/interiors/kyomei-interior-hall-2400.webp",
+          "width": 2400,
+          "height": 1601,
+          "bytes": 394386
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-hall-1600.webp",
+          "width": 1600,
+          "height": 1067,
+          "bytes": 205234
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-hall-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 92946
+        }
+      ]
+    },
+    {
+      "id": "kyomei-interior-tables",
+      "sourceFile": "/Retouch/060A5191.jpg",
+      "sha256": "99510d21e3c788bad45b0d57a1c11521f972a724b9734fcba797e4a06d62f2c9",
+      "alt": "Столики и диван у деревянной решётки в действующем бистро Киомей",
+      "usage": "Главная / знакомство с действующим местом",
+      "originalWidth": 8100,
+      "originalHeight": 5403,
+      "variants": [
+        {
+          "src": "/assets/interiors/kyomei-interior-tables-2400.webp",
+          "width": 2400,
+          "height": 1601,
+          "bytes": 366816
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-tables-1600.webp",
+          "width": 1600,
+          "height": 1067,
+          "bytes": 180420
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-tables-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 79438
+        }
+      ]
+    },
+    {
+      "id": "kyomei-interior-brick",
+      "sourceFile": "/All/060A5278.jpg",
+      "sha256": "007ac7337fd43490c01b59daf86527e26b280813b2c8a071f58c129b4fbb9b55",
+      "alt": "Посадка у кирпичной стены в бистро Киомей",
+      "usage": "Галерея бистро",
+      "originalWidth": 6657,
+      "originalHeight": 4993,
+      "variants": [
+        {
+          "src": "/assets/interiors/kyomei-interior-brick-2400.webp",
+          "width": 2400,
+          "height": 1800,
+          "bytes": 672270
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-brick-1600.webp",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 241988
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-brick-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 91062
+        }
+      ]
+    },
+    {
+      "id": "kyomei-interior-japan",
+      "sourceFile": "/All/060A5390.jpg",
+      "sha256": "2de5ab8211bcd658187b65c74a6f5871ae54e6808b3987f8da10f2b6eba74f2a",
+      "alt": "Столик в камерной зоне Киомей с рисунком на стене",
+      "usage": "Галерея бистро",
+      "originalWidth": 8192,
+      "originalHeight": 5464,
+      "variants": [
+        {
+          "src": "/assets/interiors/kyomei-interior-japan-2400.webp",
+          "width": 2400,
+          "height": 1601,
+          "bytes": 390554
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-japan-1600.webp",
+          "width": 1600,
+          "height": 1067,
+          "bytes": 168542
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-japan-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 66004
+        }
+      ]
+    },
+    {
+      "id": "kyomei-exterior",
+      "sourceFile": "/All/060A5433.jpg",
+      "sha256": "d04ba4e6638ede27034757b46505fb87c671cf6a4167aa197e7bbda660c8dd97",
+      "alt": "Вход и вывеска действующего Киомей на Дизайн Заводе",
+      "usage": "Галерея бистро / адрес",
+      "originalWidth": 6255,
+      "originalHeight": 4691,
+      "variants": [
+        {
+          "src": "/assets/interiors/kyomei-exterior-2400.webp",
+          "width": 2400,
+          "height": 1800,
+          "bytes": 413250
+        },
+        {
+          "src": "/assets/interiors/kyomei-exterior-1600.webp",
+          "width": 1600,
+          "height": 1200,
+          "bytes": 212106
+        },
+        {
+          "src": "/assets/interiors/kyomei-exterior-960.webp",
+          "width": 960,
+          "height": 720,
+          "bytes": 91864
+        }
+      ]
+    },
+    {
+      "id": "kyomei-interior-katana",
+      "sourceFile": "/All/060A5581.jpg",
+      "sha256": "73132f90f6c5d4d3c0e76a0fa80d1e19d524d408382a5537468c66944e69e1cd",
+      "alt": "Катана на стойке и надпись MASSE OMAKASE на стене действующего Киомей",
+      "usage": "Главная / первый экран",
+      "originalWidth": 8062,
+      "originalHeight": 5377,
+      "variants": [
+        {
+          "src": "/assets/interiors/kyomei-interior-katana-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 59548
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-katana-1600.webp",
+          "width": 1600,
+          "height": 1067,
+          "bytes": 130804
+        },
+        {
+          "src": "/assets/interiors/kyomei-interior-katana-2400.webp",
+          "width": 2400,
+          "height": 1601,
+          "bytes": 236850
+        }
+      ]
+    }
+  ]
+}
